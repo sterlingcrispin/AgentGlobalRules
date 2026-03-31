@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Track instruction files
+!.gitignore
+!CLAUDE.md
+!AGENTS.md
